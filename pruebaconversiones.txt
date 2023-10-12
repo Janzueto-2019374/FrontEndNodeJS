@@ -1,0 +1,8 @@
+Prueba función: convertirCaF
+Grados Centigrados origen: 50
+Resultado: 122
+-------
+Prueba función: convertirKmsMillas
+Grados Centigrados origen: 150
+Resultado: 93.20565
+-------
